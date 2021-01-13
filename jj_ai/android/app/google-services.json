@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1072601759415",
+    "project_id": "jj-deep-learning",
+    "storage_bucket": "jj-deep-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072601759415:android:a663d185bc7355ddd49732",
+        "android_client_info": {
+          "package_name": "com.example.jj_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072601759415-m787la84gkkgn9vgvtduvp95muclr6gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jj_ai",
+            "certificate_hash": "8666f990e44b3bcbcf2133e0d285c3d2b21243ff"
+          }
+        },
+        {
+          "client_id": "1072601759415-kdd67f4laghepr00jmc7e8v0nkop108l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDkYUtSkSfFjs7T8vcqTgjMu05nmVYMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072601759415-kdd67f4laghepr00jmc7e8v0nkop108l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
